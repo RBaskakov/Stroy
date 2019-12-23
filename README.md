@@ -20,3 +20,13 @@
 [Скачать дистрибутив программы](https://github.com/RBaskakov/Stroy/blob/master/stroyras.rar)
 
 [Скачать описание](https://github.com/RBaskakov/Stroy/blob/master/СтройРасчеты.pdf)
+
+**Использование данной разработки в любых целях, кроме ознакомительных, запрещено.**
+
+**Смотрите также:**
+
+[Мои решения на 1С](https://github.com/RBaskakov/1C)
+
+[Программа для расчёта строительных конструкций СтройРасчёты](https://github.com/RBaskakov/Stroy)
+
+©Баскаков Роман Анатольевич, roman_box@mail.ru
