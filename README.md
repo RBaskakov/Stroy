@@ -19,4 +19,4 @@
    
 [Скачать дистрибутив программы](https://github.com/RBaskakov/Stroy/blob/master/stroyras.rar)
 
-[Скачать описание](https://github.com/RBaskakov/Stroy/blob/master/Описание.pdf)
+[Скачать описание](https://github.com/RBaskakov/Stroy/blob/master/СтройРасчеты.pdf)
